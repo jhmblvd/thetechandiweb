@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Website",
   "main": "index.js",
-  "homepage": "https://jhmblvd.github.io/thetechandiweb",
+  "homepage": "https://jhmblvd.github.io/thetechandiweb/.",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
